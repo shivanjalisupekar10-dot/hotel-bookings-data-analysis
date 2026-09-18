@@ -15,14 +15,14 @@ Create KPIs and visualizations to understand the data easily.
 - <a href="https://github.com/shivanjalisupekar10-dot/hotel-bookings-data- analysis/blob/main/Hotel_Bookings_Cleaned_Transformed.csv%20(1).xlsx">Hotel Booking Dataset
 
 ## KPIs Used in the Dataset
-1. Total Bookings** – Total number of hotel booking records.
-2. Total Cancellations** – Number of bookings that were cancelled.
-3. Cancellation Rate** – Percentage of bookings that were cancelled.
-4. Total Guests** – Total number of guests associated with bookings.
-5. Total Nights** – Total number of nights booked.
-6. Average Daily Rate (ADR)** – Average daily room rate.
-7. Estimated Booking Value** – Estimated value generated from bookings.
-8. Average Lead Time** – Average number of days between booking and arrival.
+1. Total Bookings – Total number of hotel booking records.
+2. Total Cancellations – Number of bookings that were cancelled.
+3. Cancellation Rate – Percentage of bookings that were cancelled.
+4. Total Guests – Total number of guests associated with bookings.
+5. Total Nights – Total number of nights booked.
+6. Average Daily Rate (ADR) – Average daily room rate.
+7. Estimated Booking Value – Estimated value generated from bookings.
+8. Average Lead Time – Average number of days between booking and arrival.
 
 ## Dashboard:
 <img width="917" height="458" alt="2026-09-18 (1)" src="https://github.com/user-attachments/assets/2c22398d-d8d7-402b-92f1-a55564df2231" /> 
