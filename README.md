@@ -24,9 +24,6 @@ This project focuses on analyzing hotel booking data to identify booking pattern
 7. Estimated Booking Value – Estimated value generated from bookings.
 8. Average Lead Time – Average number of days between booking and arrival.
 
-## Dashboard:
-<img width="917" height="458" alt="2026-09-18 (1)" src="https://github.com/user-attachments/assets/2c22398d-d8d7-402b-92f1-a55564df2231" /> 
-
 ## Tools Used :
 1. Microsoft Excel – Data preparation and analysis.
 2. Data Cleaning & Transformation – Preparing, organizing, and transforming the dataset.
@@ -40,6 +37,9 @@ This project focuses on analyzing hotel booking data to identify booking pattern
 4. Room type analysis
 5. Pricing analysis
 6. Market segment and booking channel analysis
+
+## Dashboard:
+<img width="917" height="458" alt="2026-09-18 (1)" src="https://github.com/user-attachments/assets/2c22398d-d8d7-402b-92f1-a55564df2231" /> 
 
 ## Final Result
 The project converts hotel booking data into easy-to-understand KPIs, charts, and insights.
