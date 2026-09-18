@@ -16,6 +16,7 @@ Total Nights – Total nights spent by guests.
 Total Guests – Total number of adults, children, and babies.
 
 ## Dashboard:
-<img width="300" height="553" alt="Hotel booking Dashboard" src="https://github.com/user-attachments/assets/41f0e484-e7d1-4500-acde-fc4c2db678af" />
+<img width="917" height="458" alt="2026-09-18 (1)" src="https://github.com/user-attachments/assets/2c22398d-d8d7-402b-92f1-a55564df2231" />
+
 
 
