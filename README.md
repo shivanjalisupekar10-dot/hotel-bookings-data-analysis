@@ -38,7 +38,7 @@ Room type analysis
 Pricing analysis
 Market segment and booking channel analysis  
 
-## Final Result#
+## Final Result
 The project converts hotel booking data into easy-to-understand KPIs, charts, and insights.
 It helps users quickly understand important booking patterns and customer behavior without going through the complete raw dataset.
 
