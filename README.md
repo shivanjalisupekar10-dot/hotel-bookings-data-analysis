@@ -4,12 +4,12 @@
 This project focuses on analyzing hotel booking data to identify booking patterns, cancellation trends, customer behavior, room information, stay duration, and estimated booking value. The dataset was cleaned and transformed to make it suitable for analysis and dashboard creation.
 
 ## Objectives :
-Analyze hotel booking patterns.
-Understand booking cancellation behavior.
-Study customer booking and stay behavior.
-Analyze room types and pricing.
-Identify common booking channels and market segments.
-Create KPIs and visualizations to understand the data easily.
+1.Analyze hotel booking patterns.
+1.Understand booking cancellation behavior.
+1.Study customer booking and stay behavior.
+1.Analyze room types and pricing.
+1.Identify common booking channels and market segments.
+1.Create KPIs and visualizations to understand the data easily.
 
 ## Dataset Used :
 - <a href="https://github.com/shivanjalisupekar10-dot/hotel-bookings-data- analysis/blob/main/Hotel_Bookings_Cleaned_Transformed.csv%20(1).xlsx">Hotel Booking Dataset
